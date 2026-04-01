@@ -1,6 +1,6 @@
 Olá, eu sou Enzo
 
-- 👨🏿‍🏫 Atualmente trabalho como Docente no Senac DF
+- 👨🏿‍🏫 Atualmente trabalho na G4F DF
 - 🧑🏿‍💻 Trabalho com Figma, Desenvolvimento Front-End, WordPress, PHP, Java, Python e Banco de Dados
 - 📽️ Procuro colaborar no desenvolvimento de projetos
 - 🧑🏿‍💻 Pergunte-me sobre Desenvolvimento de Sistemas
